@@ -5,11 +5,11 @@
 
 |数字识别|组长|组员|组员|组员|组员|组员|组员|
 | -- | -- | -- | -- | -- | -- | -- | -- |
-|第一期 (2018-04-18)|[限定心态](https://github.com/island99)|[strengthen](https://github.com/Yestrengthen)|[VS53MV](https://github.com/La-fe)|[不会修电脑](https://github.com/smallsmallwood)|[远心 - ](https://github.com/SwordFaith)|[小耀哥_0011](https://github.com/yirenrumeng)|[丨](https://github.com/nincro)|
+|第一期 (2018-04-18)|[限定心态](https://github.com/island99)|[strengthen](https://github.com/Yestrengthen)|[VS53MV](https://github.com/La-fe)|[不会修电脑](https://github.com/smallsmallwood)|[远心](https://github.com/SwordFaith)|[小耀哥_0011](https://github.com/yirenrumeng)|[丨](https://github.com/nincro)|
 
 ## 活动内容
 
-* 1天：GitHub入门到放弃指南：https://github.com/apachecn/kaggle/blob/master/docs/github-quickstart.md
+* 1天：[GitHub入门到放弃指南](https://github.com/apachecn/kaggle/blob/master/docs/github-quickstart.md)：https://github.com/apachecn/kaggle/blob/master/docs/github-quickstart.md
 * 1天：Kaggle 入门操作指南：https://github.com/apachecn/kaggle/blob/master/docs/kaggle-quickstart.md
 * 1天：（knn版本-测试提交）数字识别项目：https://github.com/apachecn/kaggle/tree/master/competitions/getting-started/digit-recognizer
 * 3天：研究其他的算法，然后测试提交
