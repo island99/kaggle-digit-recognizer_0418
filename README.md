@@ -10,7 +10,7 @@
 ## 活动内容
 
 * 1天：[GitHub入门到放弃指南](https://github.com/apachecn/kaggle/blob/master/docs/github-quickstart.md)：https://github.com/apachecn/kaggle/blob/master/docs/github-quickstart.md
-* 1天：Kaggle 入门操作指南：https://github.com/apachecn/kaggle/blob/master/docs/kaggle-quickstart.md
+* 1天：[Kaggle 入门操作指南](https://github.com/apachecn/kaggle/blob/master/docs/kaggle-quickstart.md)
 * 1天：（knn版本-测试提交）数字识别项目：https://github.com/apachecn/kaggle/tree/master/competitions/getting-started/digit-recognizer
 * 3天：研究其他的算法，然后测试提交
 * 1天：组长总结报告最后的状态
