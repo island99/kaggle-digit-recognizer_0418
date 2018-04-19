@@ -91,8 +91,8 @@
 
 - [2] code的格式不是很懂
 
-- [ ] 
+- [3] 找不到kernel的删除
  
-- [ ] 
+- [4] kernel设置为public后是否不能更改为private
 
 - [ ] 
