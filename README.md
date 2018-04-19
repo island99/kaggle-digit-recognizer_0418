@@ -87,12 +87,12 @@
 
 ### 提问讨论总结
 
-- [ ] 
+- [1] 在新建的kernel里没有教程里的那个Notebook和Output
 
-- [ ] 
+- [2] code的格式不是很懂
 
-- [ ] 
+- [3] 找不到kernel的删除
  
-- [ ] 
+- [4] kernel设置为public后是否不能更改为private
 
 - [ ] 
