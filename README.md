@@ -3,9 +3,9 @@
 
 > 小白抱团（组队入门）第一期
 
-|数字识别|组长|组员|组员|组员|组员|组员|组员|
-| -- | -- | -- | -- | -- | -- | -- | -- |
-|第二期 (2018-04-21)|[凌少skier](https://github.com/skierlin)|[strengthen](https://github.com/Yestrengthen)|[VS53MV](https://github.com/La-fe)|[不会修电脑](https://github.com/smallsmallwood)|[远心](https://github.com/SwordFaith)|[小耀哥_0011](https://github.com/yirenrumeng)|[丨](https://github.com/nincro)|
+|数字识别|组长|组员|组员|组员|组员|组员|
+| -- | -- | -- | -- | -- | -- | -- |
+|第二期 (2018-04-21)|[凌少skier](https://github.com/skierlin)|[strengthen](https://github.com/Yestrengthen)|[VS53MV](https://github.com/La-fe)|[不会修电脑](https://github.com/smallsmallwood)|[远心](https://github.com/SwordFaith)|[小耀哥_0011](https://github.com/yirenrumeng)|
 
 ## 活动内容
 
