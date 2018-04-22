@@ -5,7 +5,7 @@
 
 |数字识别|组长|组员|组员|组员|组员|组员|
 | -- | -- | -- | -- | -- | -- | -- |
-|第二期 (2018-04-21)|[凌少skier](https://github.com/skierlin)|[Blue](https://github.com/)|[Max](https://github.com/)|[考拉](https://github.com/)|[Happyorg](https://github.com/)|[过客](https://github.com/)|
+|第二期 (2018-04-21)|[凌少skier](https://github.com/skierlin)|[Blue](https://github.com/)|[Max](https://github.com/)|[考拉](https://github.com/kailanzheng)|[Happyorg](https://github.com/)|[过客](https://github.com/)|
 
 ## 活动内容
 
